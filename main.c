@@ -9,7 +9,7 @@ int main(void) {
     double pi = 3.14;
     printf("pi = %.2f\n", pi);
 
-    int sum = 1 + 2 + 3;
+    int sum = 1 + 2 + 3 + 4 + 5 + 6;
     printf("sum = %d\n", sum);
 
     int res1 = 5 * (6 + 2 / 6) - 10;
