@@ -2,7 +2,7 @@
 
 int main(void) {
     printf("Hello, World!\n");
-    printf("Hello, World!Again\n");
+    printf("Hello, World! Again\n");
 
     int a = 12345678;
     printf("a = %d\n", a);
